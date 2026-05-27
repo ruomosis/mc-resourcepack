@@ -1,0 +1,29 @@
+{
+  "entity.warden.emerge": {
+    "sounds": [
+      {
+        "name": "entity/warden/emerge",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "entity.bee.loop": {
+    "sounds": [
+      {
+        "name": "entity/bee/loop",
+        "stream": true
+      }
+    ],
+    "replace": true
+  },
+  "entity.player.levelup": {
+    "sounds": [
+      {
+        "name": "entity/player/levelup",
+        "stream": true
+      }
+    ],
+    "replace": true
+  }
+}
